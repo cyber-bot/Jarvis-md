@@ -37,7 +37,7 @@ module.exports = {
   BRAINSHOP: process.env.BRAINSHOP || '172372,nbjE0YAlyw3cpoMl',
   TGTOKEN: "bot891038791:AAHWB1dQd-vi0IbH2NjKYUk-hqQ8rQuzPD4",
   API: 'https://api-loki-ser-1o2h.onrender.com/',
-  STICKER_PACKNAME: process.env.STICKER_PACKNAME || 'ᴊᴀʀᴠɪꜱ;ᴡᴀʙᴏᴛ',
+  STICKER_PACKNAME: process.env.STICKER_PACKNAME || '×͜× Ⱥ↻ǶԱ★࿐;ᴡᴀʙᴏᴛ',
   CALL_BLOCK: toBool(process.env.CALL_BLOCK) || false,
   SAVE_STATUS: toBool(process.env.SAVE_STATUS) || false,
   STATUS_VIEW: process.env.STATUS_VIEW || "true",
